@@ -1,4 +1,4 @@
-# masterclass-sass
+#  Masterclass SASS
 
 <h4>Aula da Rocketseat:</h4>
 <p>Dê super poderes ao CSS com SASS | Masterclass #15
